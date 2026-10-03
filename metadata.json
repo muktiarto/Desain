@@ -1,0 +1,6 @@
+{
+  "name": "DesainKu - Pemesanan Jasa Desain Grafis",
+  "description": "Aplikasi pemesanan jasa desain grafis profesional untuk flyer dan banner/spanduk dengan formulir lengkap dan pelacakan status pesanan langsung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
